@@ -35,4 +35,4 @@
     p_error: 0.000473851756106099,
     path: "/static/imagenet/val/n04099969/ILSVRC2012_val_00048622.JPEG",
   },
-];
+]
