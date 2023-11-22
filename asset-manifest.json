@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/evodemo/static/css/main.cd069124.css",
-    "main.js": "/evodemo/static/js/main.20df220a.js",
+    "main.js": "/evodemo/static/js/main.e2552487.js",
     "static/media/spirals.png": "/evodemo/static/media/spirals.a92a3f2c33fb818153e6.png",
     "index.html": "/evodemo/index.html",
     "static/media/book.svg": "/evodemo/static/media/book.0dae00ebb8ec1e97c342f6d1d2ec8b62.svg",
     "static/media/eye.svg": "/evodemo/static/media/eye.11002ebe1cd45f4db9da76e080915cd0.svg",
     "main.cd069124.css.map": "/evodemo/static/css/main.cd069124.css.map",
-    "main.20df220a.js.map": "/evodemo/static/js/main.20df220a.js.map"
+    "main.e2552487.js.map": "/evodemo/static/js/main.e2552487.js.map"
   },
   "entrypoints": [
     "static/css/main.cd069124.css",
-    "static/js/main.20df220a.js"
+    "static/js/main.e2552487.js"
   ]
 }
